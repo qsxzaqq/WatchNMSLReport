@@ -1,0 +1,4 @@
+name: WatchNMSLReport
+version: ${project.version}
+main: cc.i9mc.watchnmslreport.BungeeReport
+depends: [PluginChannel, GameUtils]

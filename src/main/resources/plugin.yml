@@ -1,0 +1,11 @@
+name: WatchNMSLReport
+version: ${project.version}
+main: cc.i9mc.watchnmslreport.BukkitReport
+authors: [JinVan]
+depend: [PluginChannel, GameUtils]
+commands:
+  staff:
+  report:
+    aliases: [jb]
+  wnm:
+  wrr:
